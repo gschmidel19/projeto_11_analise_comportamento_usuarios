@@ -1,4 +1,4 @@
-# Projeto 11 — Pesquisa de Mercado para Cafeteria Automatizada
+# Pesquisa de Mercado para Cafeteria Automatizada
 
 Repositório com os projetos desenvolvidos durante o curso de formação em Análise de Dados da [TripleTen](https://tripleten.com).
 
