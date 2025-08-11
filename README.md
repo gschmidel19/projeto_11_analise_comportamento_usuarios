@@ -1,4 +1,4 @@
-# Pesquisa de Mercado para Cafeteria Automatizada
+# Análise de Comportamento de Usuários e Teste A/A/B
 
 Repositório com os projetos desenvolvidos durante o curso de formação em Análise de Dados da [TripleTen](https://tripleten.com).
 
